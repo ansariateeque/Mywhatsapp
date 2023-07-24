@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126668040301",
+    "project_id": "ateequeauthenticate",
+    "storage_bucket": "ateequeauthenticate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126668040301:android:c1d56c1364e11c9586f764",
+        "android_client_info": {
+          "package_name": "com.example.mywhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126668040301-4sj4sl4g0dtn1lgme9ouut6d4dhuq5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIz4-XwQDJTXrPf_V358qGfoVkQ9e2JV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126668040301-4sj4sl4g0dtn1lgme9ouut6d4dhuq5gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
